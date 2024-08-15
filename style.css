@@ -1,0 +1,18 @@
+* {
+    background-color: #F5F9E9;
+}
+h1 {
+    font-family: "Brush Script MT", cursive;
+    text-align: center;
+    color: #36453B;
+    font-size: 150px;
+    font-weight: 300;
+
+}
+
+a {
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+    font-size: 34px;
+    color: #515751;
+}

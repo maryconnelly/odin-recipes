@@ -1,0 +1,25 @@
+* {
+    background-color: #F5F9E9;
+    font-family: Verdana, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #36453B;
+    font-size: 64px;
+    font-weight: 800;
+
+}
+
+h2 {
+    font-size: 34px;
+    color: #515751;
+}
+
+h3 {
+    color: #596869;
+    font-size: 18px;
+}
+
+div {
+    background-color: #C2C1A5;
+}
